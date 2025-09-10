@@ -109,7 +109,7 @@ By combining **metadata, transcript analysis, sentiment analysis, and statistica
 
 ---
 
-## 📂 Repository Structure (Visual)
+## 📂 Repository Structure 
 
 ```mermaid
 flowchart TD
